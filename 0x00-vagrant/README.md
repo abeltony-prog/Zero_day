@@ -1,2 +1,2 @@
-[root@TA1w80dv ~]# uname
-Linux
+root@36eb2764c015:~# uname                                                                                                                                               
+Linux           
