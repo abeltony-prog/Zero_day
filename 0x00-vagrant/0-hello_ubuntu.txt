@@ -1,3 +1,2 @@
-0-hello_ubuntu
 [root@TA1w80dv ~]# uname
 Linux
